@@ -39,7 +39,7 @@ This is a basic calculator application built using Python's Tkinter library. The
 
 ## Contributors
 
-- 010binary (https://github.com/010binary)
+- [010binary](https://github.com/010binary)
 
 Contributions to enhance the calculator or add new functionalities are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
